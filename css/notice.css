@@ -1,0 +1,79 @@
+#Notice{
+	margin-top: 10px;
+
+}
+#Notice .col-md-8{
+	border-right:1px solid gray; 
+}
+
+
+
+#Notice .headline_n{
+	margin-top: 25px;
+	font-size: 28px;
+	font-weight: bold;
+	margin-bottom: 15px;
+	
+}
+
+#Notice h4{
+	float: right;
+	border: 1px solid #31b0d5;
+	margin-top: -40px;
+	padding: 4px;
+}
+#Notice h4:hover{
+	color: #31b0d5;
+}
+
+
+
+#Notice table{
+	width: 100%;
+}
+#Notice table th{
+	text-align: center;
+	border: 1px solid gray;
+	font-size: 18px;
+	font-weight: bold;
+
+}
+#Notice table td{
+	border: 1px solid gray;
+	font-size: 18px;
+	
+}
+#Notice table button{
+	background: #609513;
+	color: #fff;
+	padding: 3px;
+    font-size: 12px;
+}
+#Notice table td h5{
+	font-size: 18px;
+	text-align: left;
+}
+#Notice table td a{
+	font-size: 14px;
+}
+#Notice table p{
+	font-size: 14px;
+
+}
+#Notice table tr{
+	text-align: center;
+
+}
+#Notice table td a:focus,
+#Notice table td a:hover{
+	color: #31b0d5;
+}
+.pagination > .active > a,
+.pagination > .active > a:focus,
+.pagination > .active > a:hover,
+.pagination > .active > span,
+.pagination > .active > span:focus,
+.pagination > .active > span:hover{
+	background-color:#31b0d5;
+	border-color: #31b0d5;
+}
